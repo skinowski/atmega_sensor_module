@@ -1,4 +1,8 @@
-
+/*
+ * Copyright (C) 2016 Tolga Ceylan
+ *
+ * CopyPolicy: Released under the terms of the GNU GPL v3.0.
+ */
 /* 16Mhz AtMega32u4 */
 #define F_CPU 16000000
 
